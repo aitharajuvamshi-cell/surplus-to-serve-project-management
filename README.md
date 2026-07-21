@@ -1,6 +1,6 @@
 # Surplus to Serve
 
-### A complete project management plan to turn campus food waste into food security
+### A semester spent turning campus food waste into a real plan for feeding people
 
 **ISM 555, Project Management, Northern Arizona University, Spring 2025**
 **Team 3, Project Manager: Vamshi Aitharaju**
@@ -15,9 +15,9 @@
 
 Every day, NAU's dining halls (Hotspot, Dub's, Coops, Pizza Hut, Cobrizo) end up with surplus food. Most of it gets composted. Composting is not wrong by itself, but a few miles away, and sometimes a few dorms away, students and community members deal with food insecurity. Two problems sitting right next to each other, unconnected.
 
-Surplus to Serve is a project management plan to connect them. It is a real system for collecting, safely handling, and redistributing surplus food, built the way an actual project gets built: charter first, then scope, then schedule, then risk, then people, then communication.
+Surplus to Serve started as an answer to that gap: a real system for collecting, safely handling, and redistributing surplus food. Not a slide deck idea, but a plan built the way an actual project gets built, one deliverable at a time, over a full semester, with a real budget, a real schedule, and a team that had to actually coordinate to make it work.
 
-A note on authorship: this was a four person team project. All four names appear across these deliverables, and I served as Project Manager, leading overall coordination, signing the charter, running the communication plan, and driving the team's weekly cadence. Where a specific deliverable was led by a teammate, that is noted honestly rather than smoothed over.
+A note on authorship before the story starts: this was a four person team project. All four names appear across these deliverables, and I served as Project Manager, leading overall coordination, signing the charter, running the communication plan, and driving the team's weekly cadence. Where a specific deliverable was led by a teammate, that is noted honestly rather than smoothed over.
 
 ## Skills Demonstrated in This Project
 
@@ -35,87 +35,71 @@ A note on authorship: this was a four person team project. All four names appear
 
 ---
 
-## Chapter 1: Writing the Charter
+## Chapter 1: Starting With Why, and With a Real Number
 
-**What I did:** I led the team in writing the project charter, the founding document that defines why this project exists and who is accountable for it.
+Every project starts with a document that answers one question: why does this exist, and who is accountable for it. Writing the charter meant turning a good instinct, food is going to waste while people go hungry, into something specific enough to actually fund and staff.
 
-**Why:** Every project needs a clear answer to that question before any real work starts. The charter lays out the purpose (reduce food waste, fight food insecurity, build sustainability into campus dining), five concrete deliverables, and a real budget, roughly $7,000 to $8,000 in one time setup costs plus recurring monthly costs.
+The budget is where the idea stopped being abstract. A single stall structure alone would cost $5,000, more than two thirds of the entire one time setup budget.
 
-**How:** I worked with the team to define the project's purpose, scope boundaries, and initial risks, then signed the charter as Project Manager alongside our sponsor, Prof. Chris Paige. Naming the risks on page one instead of page ten is what makes a charter a working document instead of a formality.
+<img src="assets/budget_breakdown.png" width="650"/>
+
+Total setup landed between $7,000 and $8,000, plus ongoing monthly costs for packaging, volunteer incentives, and emergency transport. Putting real numbers on the idea early, before a single volunteer was recruited, is what turned Surplus to Serve from a nice thought into something a sponsor could actually approve. The charter also named the project's biggest risks on page one, not page ten: dining units might not participate, volunteers might not show up, food safety could go wrong. Naming those risks before any work started is what made the rest of the semester manageable instead of reactive.
 
 📄 [Read the full Project Charter](reports/01_Project_Charter.pdf)
 
-## Chapter 2: Defining Scope and Breaking Down the Work
+## Chapter 2: Deciding What This Project Would Not Do
 
-**What I did:** I helped define a deliberately narrow scope, then broke the full project into a Work Breakdown Structure covering five phases.
+A charter says why a project exists. A scope statement says exactly what it will do, and just as importantly, what it will not. This is the chapter where the team had to say no to good ideas in order to protect a food safety sensitive project running on a single semester clock.
 
-**Why:** A charter says why a project exists. A scope statement says exactly what it will do, and just as importantly, what it will not do. Surplus to Serve's scope is narrow on purpose: on campus only, pre packaged safe to distribute food only, no cooking, no off campus sourcing, no home delivery. That narrowness is what keeps a food safety sensitive project achievable in one semester.
-
-**How:** The Work Breakdown Structure decomposes the whole project into five phases: Initiation, Planning, Execution, Monitoring and Control, and Closure, each broken down to task level. This is the difference between saying "make this happen" and having an actual, checkable list of what making it happen requires.
+The scope stayed deliberately narrow: on campus only, pre packaged safe to distribute food only, no cooking, no off campus sourcing, no home delivery. Every one of those boundaries was a real conversation, since each one closed off a direction the project could have grown into. From there, the Work Breakdown Structure turned that narrowed scope into five phases, Initiation, Planning, Execution, Monitoring and Control, and Closure, each broken down to task level. That is the difference between saying "make this happen" and having an actual, checkable list of what making it happen requires.
 
 📄 [Read the full Scope Statement](reports/02_Scope_Statement.pdf) or the [full Work Breakdown Structure](reports/03_Work_Breakdown_Structure.pdf)
 
-## Chapter 3: Building the Schedule
+## Chapter 3: Putting Dates on the Plan
 
-**What I did:** I built the project schedule in Microsoft Project, covering the full semester timeline.
-
-**Why:** A plan without dates is just a wish list. The schedule turns the Work Breakdown Structure into a real, time bound commitment.
+A plan without dates is just a wish list. The schedule, built in Microsoft Project, is what turned Surplus to Serve into a real, time bound commitment instead of a semester long intention.
 
 <img src="assets/milestone_timeline.png" width="700"/>
 
-**How:** The milestones above are pulled directly from the charter's official schedule: seven phases running from initial partner outreach in early February through full implementation and closure by early May.
+Seven phases, from initial partner outreach in early February through full implementation and closure by early May. Every deliverable in this repository was built against this exact timeline, under the same deadline pressure any real project team works under.
 
-## Chapter 4: Assigning Ownership with a RACI Matrix
+## Chapter 4: Making Sure Ownership Was Never Vague
 
-**What I did:** I built a RACI matrix assigning Responsible, Accountable, Consulted, and Informed roles across every task in the Work Breakdown Structure.
-
-**Why:** A plan with no ownership is just a wish list with extra steps. The RACI matrix turns a vague statement like "the team will handle food safety" into something specific and checkable.
-
-**How:** I mapped every task against six roles: Project Manager, Sponsor, Key Stakeholder, the Project Team, Dining Services, and Student Organizations and Volunteers. That level of detail is specific enough to actually run a weekly status check against.
+By this point in the semester, the plan was real, but a plan with no ownership is just a wish list with extra steps. The RACI matrix is where "the team will handle food safety" became something specific: the Project Team is Responsible, the Sponsor is Accountable, and Dining Services is Consulted. Every task in the Work Breakdown Structure got mapped against six roles, Project Manager, Sponsor, Key Stakeholder, the Project Team, Dining Services, and Student Organizations and Volunteers, specific enough to actually run a weekly status check against instead of hoping everyone remembered what they signed up for.
 
 📄 [Read the full RACI Matrix](reports/04_RACI_Matrix.pdf)
 
-## Chapter 5: Planning for What Could Go Wrong
+## Chapter 5: Naming What Could Go Wrong Before It Did
 
-**What I did:** I led the team in identifying ten project risks, scoring each one, and assigning a specific mitigation.
-
-**Why:** Naming a risk without a plan for it is not risk management, it is just worry. Every risk in this register has a concrete action attached to it.
+Every project has a moment where optimism has to meet a harder question: what actually breaks this. For Surplus to Serve, that meant sitting down and naming ten specific risks, then scoring each one honestly.
 
 <img src="assets/risk_register_chart.png" width="600"/>
 
-**How:** Each risk was scored by probability multiplied by impact. The top scoring risk, dining unit non participation, scored 20, which makes sense since the entire project depends on food actually showing up. The mitigation was not hope, it was relationship building and incentive design. Lower on the list, a risk like tracking tool failure got a simple, low tech backup: a manual tracking process, since a broken $150 Google Form should never be able to stop food from reaching people.
+The top scoring risk was not some rare disaster. It was the most obvious one: dining units simply not participating, scored 20, since the entire project depends on food actually showing up in the first place. The mitigation was not hope, it was relationship building and incentive design, work that started well before launch. Further down the list, a smaller risk got a deliberately low tech answer. If the $150 tracking tool ever failed, the backup was a manual paper process, because a broken Google Form should never be the reason food does not reach someone who needs it.
 
 📄 [Read the full Risk Register](reports/05_Risk_Register.pdf)
 
-## Chapter 6: Mapping the Stakeholders
+## Chapter 6: Learning Who Actually Needed to Be in the Room
 
-**What I did:** I helped build a stakeholder analysis mapping eleven distinct groups by power, interest, and awareness.
-
-**Why:** It is easy to plan around the obvious stakeholders, like dining units and volunteers, and forget the quieter ones. This analysis explicitly includes groups like the Sustainability and Composting team and Health and Safety officials, since a food redistribution project that ignores either one does not survive contact with reality.
+It is easy to plan around the obvious people, dining units, volunteers, the sponsor, and forget the quieter stakeholders who can still make or break a project. Building the stakeholder analysis meant deliberately looking for the groups that were easy to overlook, like the Sustainability and Composting team and Health and Safety officials, and being honest about how much power and interest each group actually had.
 
 <img src="assets/stakeholder_grid.png" width="650"/>
 
-**How:** Each stakeholder was rated High, Medium, or Low on both power and interest, then placed on this grid. Groups in the top right, like our sponsor Chris Paige, needed to be managed closely with frequent, direct communication. Groups in the bottom left, like the IT tracking tool team, only needed to be monitored, not managed intensively. This grid is what shaped every decision in the communication plan that follows.
+Placing every stakeholder on this grid is what shaped everything that came after it. Groups in the top right, like our sponsor, needed close, frequent contact. Groups in the bottom left, like the IT tracking tool team, just needed to stay informed. This grid was not a formality, it became the actual blueprint for the communication plan in the next chapter.
 
 📄 [Read the full Stakeholder Analysis](reports/06_Stakeholder_Analysis.pdf)
 
-## Chapter 7: Keeping Everyone in the Loop
+## Chapter 7: Closing the Loop With Communication
 
-**What I did:** I built the communication matrix defining who hears what, how often, through which channel, and delivered by whom.
-
-**Why:** A plan is only useful if the right people actually hear about it at the right time. The communication matrix is the operational glue that connects every other deliverable in this project to the people who need to act on it.
-
-**How:** Bi weekly team meetings. Monthly sponsor status reports. Weekly awareness campaigns on Instagram and campus flyers for student beneficiaries. Weekly transportation coordination over email and WhatsApp. Every audience in the stakeholder grid above got a communication plan actually shaped to how that audience operates, not a generic broadcast to everyone.
+A plan is only as good as whether the right people hear about it at the right time. The communication matrix took every stakeholder from that grid and gave them a communication plan actually shaped to how they operate, not a single generic update sent to everyone. Bi weekly team meetings. Monthly sponsor status reports. Weekly awareness campaigns on Instagram and campus flyers for student beneficiaries. Weekly transportation coordination over email and WhatsApp. This is the deliverable that turns a good plan into a team that is actually still talking to each other by week ten.
 
 📄 [Read the full Communication Matrix](reports/07_Communication_Matrix.pdf)
 
-## Chapter 8: Reporting Progress
+## Chapter 8: Checking the Plan Against Reality
 
-**What I did:** I led two formal progress reports tracking Surplus to Serve against its plan at the midpoint of the semester.
+A plan that never gets checked against reality is not being managed, it is just sitting on a shelf. Twice during the semester, the team stopped and reported honestly on where things actually stood against the original charter, not just where we hoped they stood.
 
-**Why:** A plan that never gets checked against reality is not being managed, it is just sitting on a shelf. These reports are the accountability loop that keeps a project honest.
-
-**How:** Both reports covered partner engagement status, requirements gathered, budget tracking, and an overall project status. The project reported green (on track) at both checkpoints.
+Both checkpoints reported partner engagement underway, requirements gathered, and budget on track. Overall status: green. That is not a dramatic ending, and that is the point. A project staying quietly on track, because the charter, the schedule, the RACI matrix, and the communication plan were all doing their job, is what project management is actually supposed to look like.
 
 📄 [Progress Report 1](progress-reports/Progress_Report_1.pdf) or [Progress Report 2](progress-reports/Progress_Report_2.pdf)
 
@@ -126,7 +110,7 @@ A note on authorship: this was a four person team project. All four names appear
 - Full project management lifecycle fluency, from charter through closure, not just one piece of it
 - Risk first thinking, with risks named early, scored, and given a specific mitigation rather than a general warning
 - Stakeholder aware planning, covering eleven distinct groups including the ones that are easy to overlook
-- Real budgeting discipline, with actual dollar estimates instead of placeholders
+- Real budgeting discipline, with actual itemized dollar estimates instead of placeholders
 - Team leadership, coordinating a four person team as Project Manager across a full semester
 
 ## Tools and Skills
@@ -136,7 +120,7 @@ Project Charter Development, Scope Management, Work Breakdown Structures, Micros
 ## Repository Structure
 
 ```
-assets: milestone timeline, risk chart, and stakeholder grid
+assets: budget breakdown, milestone timeline, risk chart, and stakeholder grid
 reports: all 7 core PM deliverables, as PDF
 progress-reports: 2 mid semester status reports, as PDF
 ```
