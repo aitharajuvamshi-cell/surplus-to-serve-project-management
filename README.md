@@ -13,9 +13,13 @@
 
 ## The Problem
 
-Every day, NAU's dining halls (Hotspot, Dub's, Coops, Pizza Hut, Cobrizo) end up with surplus food. Most of it gets composted. Composting is not wrong by itself, but a few miles away, and sometimes a few dorms away, students and community members deal with food insecurity. Two problems sitting right next to each other, unconnected.
+When our professor assigned this project, the easy path was obvious: pick one of the standard project ideas that past students had already done, plug in new names, and move on. I did not want to do that. I wanted to build something that came from an actual problem I had seen myself, not a recycled idea from a folder of old submissions.
 
-Surplus to Serve started as an answer to that gap: a real system for collecting, safely handling, and redistributing surplus food. Not a slide deck idea, but a plan built the way an actual project gets built, one deliverable at a time, over a full semester, with a real budget, a real schedule, and a team that had to actually coordinate to make it work.
+I found that problem at my own job. I work as a food service worker in campus dining, and I watched, shift after shift, how much good food gets thrown away at the end of the day. Every day, NAU's dining halls (Hotspot, Dub's, Coops, Pizza Hut, Cobrizo) end up with surplus food. Most of it gets composted. Composting is not wrong by itself, but a few miles away, and sometimes a few dorms away, students and community members deal with food insecurity. I was standing in the middle of two problems sitting right next to each other, unconnected, and I already had the access and the context to see exactly how they could be connected.
+
+Surplus to Serve started as an answer to that gap: a real system for collecting, safely handling, and redistributing surplus food. This was a simulation project for the course, not something we actually deployed, but it was real enough that when I described the idea to my own dining hall manager and supervisor, they were genuinely enthusiastic and said they wished something like this could actually be implemented. That reaction is a big part of why I stayed committed to building this out properly instead of treating it as just another assignment.
+
+From there, it became a plan built the way an actual project gets built, one deliverable at a time, over a full semester, with a real budget, a real schedule, and a team that had to actually coordinate to make it work.
 
 A note on authorship before the story starts: this was a four person team project. All four names appear across these deliverables, and I served as Project Manager, leading overall coordination, signing the charter, running the communication plan, and driving the team's weekly cadence. Where a specific deliverable was led by a teammate, that is noted honestly rather than smoothed over.
 
@@ -99,7 +103,27 @@ A plan is only as good as whether the right people hear about it at the right ti
 
 A plan that never gets checked against reality is not being managed, it is just sitting on a shelf. Twice during the semester, the team stopped and reported honestly on where things actually stood against the original charter, not just where we hoped they stood.
 
-Both checkpoints reported partner engagement underway, requirements gathered, and budget on track. Overall status: green. That is not a dramatic ending, and that is the point. A project staying quietly on track, because the charter, the schedule, the RACI matrix, and the communication plan were all doing their job, is what project management is actually supposed to look like.
+**Progress Report 1: Planning and Design**
+
+By the first checkpoint, the project was in its Planning and Design phase. Partner engagement with dining units was underway, food safety requirements had been gathered, and initial resources had been estimated. Next steps were clear: finalize the redistribution model, and start recruiting volunteers.
+
+One honest update showed up here too. The original charter estimated setup costs at $7,000 to $8,000. By this checkpoint, that estimate had grown to $8,000 to $11,000, with recurring monthly costs of $2,600 to $3,800 once operations were running.
+
+<img src="assets/budget_evolution.png" width="600"/>
+
+That is not a planning failure, it is what planning is supposed to catch. A charter is written with the best information available at the time. As partner conversations happened and real requirements came into focus, the number moved, and the team reported that change honestly instead of quietly absorbing it. The budget was marked on track despite the increase, since the revised estimate was still fully funded and accounted for.
+
+This checkpoint also restated the project's core risks in sharper focus: dining unit participation, volunteer availability, and food safety compliance, each with the same mitigation strategy carried over from the original risk register, proof that the risk planning from Chapter 5 was still holding up under real conditions. The checkpoint closed with a simple, honest summary: on track and on budget, strong support from stakeholders, with sustainability and community impact still the project's core focus.
+
+**Progress Report 2: Overall Status Green, and What Actually Happened**
+
+By the second checkpoint, the project reported an overall status of green across every tracked dimension, and this time the presentation included the specific dates of what had actually happened, not just what was planned. Planning started February 15 and wrapped by the end of that month. March was spent recruiting and training the volunteer team. By March 30, every food safety step was in place. On April 19, the team ran a pilot test, and it worked. Full operations officially launched May 1.
+
+The honest part of this update is what happened in between those dates. The team did run into real problems: volunteer shortages on some days, and a few transportation delays. Neither one was hidden or smoothed over in the report. Both got a real fix instead: a backup volunteer list to cover shortages, and alternate transport arrangements to keep food moving when the primary plan fell through. That is the entire point of building a risk register and a communication plan back in Chapters 5 and 7. When something actually went wrong, the team already had a way to respond instead of scrambling.
+
+Risk and mitigation: green, with volunteer availability and food safety both actively managed. Stakeholder engagement: green, with regular updates, active partnership with student organizations, and direct, ongoing involvement from our sponsor, Chris Paige.
+
+That is not a dramatic ending, and that is the point. A project staying quietly on track through two separate checkpoints, hitting real problems and solving them instead of getting derailed by them, because the charter, the schedule, the RACI matrix, the risk register, and the communication plan were all doing their job together, is what project management is actually supposed to look like.
 
 📄 [Progress Report 1](progress-reports/Progress_Report_1.pdf) or [Progress Report 2](progress-reports/Progress_Report_2.pdf)
 
@@ -120,7 +144,7 @@ Project Charter Development, Scope Management, Work Breakdown Structures, Micros
 ## Repository Structure
 
 ```
-assets: budget breakdown, milestone timeline, risk chart, and stakeholder grid
+assets: budget breakdown, budget evolution, milestone timeline, risk chart, and stakeholder grid
 reports: all 7 core PM deliverables, as PDF
 progress-reports: 2 mid semester status reports, as PDF
 ```
